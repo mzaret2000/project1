@@ -38,13 +38,3 @@ ul {
     border-right-width:0px;
     border-bottom-width:1px;
 }
-
-
-.mockup-overlay {
-   top: 0;
-   position: absolute;
-   z-index: -1;
-   opacity: .4;
-}
-
-
