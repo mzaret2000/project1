@@ -5,46 +5,30 @@ body {
 }
 
 h1 {
-	font-size:48px;
+	font-size: 48px;
 	margin-top: 45px;
 	margin-bottom: 10px;
 }
 
 h2 {
-	color: #F07C17;
+	color: #f07c17;
 	font-weight: 800;
-	font-size:24px;
+	font-size: 24px;
 	margin-bottom: 30px;
 }
 
 p {
 	line-height: 200%;
-	font-size:16px;
+	font-size: 16px;
 }
 
 ul {
-	font-size:16px;
+	font-size: 16px;
 	line-height: 200%;
 }
 
 .bordered {
-	border: 1px solid #CCCCCC;
-    padding-top: 10px;
-    padding-right: 40px;
-    padding-bottom: 25px;
-    padding-left: 0px;
-    border-top-width: 1px;
-    border-left-width:0px;
-    border-right-width:0px;
-    border-bottom-width:1px;
+	border: 1px solid #cccccc;
+    padding: 10px; 40px 25px 0
+    border-width: 1px 0 0 1px
 }
-
-
-.mockup-overlay {
-   top: 0;
-   position: absolute;
-   z-index: -1;
-   opacity: .4;
-}
-
-
